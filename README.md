@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Portfolio-2.0<br>🌱 I’m currently learning Nodejs React 
+🔭 I’m currently working on Portfolio-2.0<br>🌱 I’m currently learning Nodejs React<br>🫡 [![uditya.xyz](uditya.xyz)
 
 
 ## 🌐 Socials:
@@ -12,14 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Uditya69&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uditya69&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Uditya69&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Uditya69&icon=1&color=1)](https://visitcount.itsvg.in)
