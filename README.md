@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Portfolio-2.0<br>🌱 I’m currently learning Nodejs React<br>🫡 [![uditya.xyz](uditya.xyz)
+🔭 I’m currently working on Portfolio-2.0<br>🌱 I’m currently learning Nodejs React<br>🫡 visit uditya.xyz
 
 
 ## 🌐 Socials:
@@ -13,9 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uditya69&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Uditya69&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ---
