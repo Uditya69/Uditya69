@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Portfolio-2.0<br>🌱 I’m currently learning Nodejs React<br>🫡 visit uditya.xyz
-
+[![wakatime](https://wakatime.com/badge/user/3fef15cc-4da5-4271-9ab6-6a24c0640cf9.svg)](https://wakatime.com/@3fef15cc-4da5-4271-9ab6-6a24c0640cf9)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uditya-kumar-mandal) 
