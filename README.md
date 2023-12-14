@@ -1,5 +1,14 @@
+
+<h1 align="center">Hi 👋, I'm Uditya</h1>
+<h3 align="center">A frontend developer </h3>
 # 💫 About Me:
-🔭 I’m currently working on Portfolio-2.0<br>🌱 I’m currently learning Nodejs React<br>🫡 visit uditya.xyz
+- 🔭 I’m currently working on [VibeMate](github.com/vibemate)
+
+- 🌱 I’m currently learning **Mongodb,ReactNative**
+
+- 👨‍💻 Do visit: [uditya.xyz](www.uditya.xyz)
+
+- 📫 How to reach me **hi@uditya.xyz**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uditya-kumar-mandal) 
