@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Uditya</h1>
 <h3 align="center">A frontend developer </h3>
+<br/>
 # 💫 About Me:
 - 🔭 I’m currently working on [VibeMate](github.com/vibemate)
 
