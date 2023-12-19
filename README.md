@@ -3,7 +3,7 @@
 <h3 align="center">A frontend developer </h3>
 <br/>
 # 💫 About Me:<br/>
-- 🔭 I’m currently working on **"NOTHING!🤫"**
+- 🔭 I’m currently working on ** "NOTHING!🤫" **
 
 - 🌱 I’m currently learning **Mongodb,ReactNative**
 
